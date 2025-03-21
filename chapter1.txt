@@ -1,1 +1,2 @@
 this is chapter 1 of the book
+in this chapter we will learn about web development and its going to be fun!
